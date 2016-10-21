@@ -14,7 +14,8 @@
     <div class="row-fluid">
         <div class="span3">
             {if $DASHBOARDHEADER_TITLE}
-                    <h2 class="pull-left">{$DASHBOARDHEADER_TITLE}</h2>
+                    <!-- <h2 class="pull-left">{$DASHBOARDHEADER_TITLE}</h2> -->
+                    <h2 class="pull-left">工作桌面</h2>
             {/if}
         </div>
         <div class="span9">
